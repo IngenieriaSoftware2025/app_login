@@ -26,6 +26,22 @@
                     <li class="nav-item">
                         <a class="nav-link" aria-current="page" href="/ejemplo/"><i class="bi bi-house-fill me-2"></i>Inicio</a>
                     </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="/app_login/login"><i class="bi bi-door-open me-2"></i>Login</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="/app_login/usuarios"><i class="bi bi-person-add me-2"></i>Usuarios</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="/app_login/aplicaciones"><i class="bi bi-app me-2"></i>Aplicaciones</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="/app_login/permisos"><i class="bi bi-lock me-2"></i>Permisos</a>
+                    </li>
   
                     <div class="nav-item dropdown " >
                         <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">
